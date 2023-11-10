@@ -1,9 +1,9 @@
 # Cooperation-Hierarchy
 Biomodelling M2 project
 
-Authors : - Sarah Orth
-          - Aude de Witasse-Thézy
-          - Thomas Barbedette-Gerard
+Authors : Sarah Orth
+          Aude de Witasse-Thézy
+          Thomas Barbedette-Gerard
 
 1. Create different network of interactions in groups
 2. Distribute cooperator and defector behaviors depending on their hierarchy in the population
