@@ -12,4 +12,4 @@ Authors : - Sarah Orth
 
 Notes :
 - Jupyter notebook
-- software that can be used to visualize interactive graphs : gephy
+- software that can be used to visualize interactive graphs : gephi
